@@ -2,7 +2,7 @@
 
 Site informativo (fã-wiki) sobre a série de RPGs de horror Fear & Hunger, desenvolvido como projeto acadêmico. O site reúne informações sobre a história do jogo, personagens e os mapas/áreas da masmorra, com navegação responsiva entre as páginas.
 
-![Preview do projeto](imagens/home.jpg)
+![Preview do projeto](imagens/index.jpg)
 <!-- Substitua pelo caminho real do print da Home -->
 
 ## Funcionalidades
