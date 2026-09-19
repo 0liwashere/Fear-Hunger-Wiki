@@ -44,6 +44,6 @@ O projeto segue uma estrutura simples de site multi-página estático:
 - **Avisos de conteúdo incompleto:** as páginas de História e Mapas incluem um alerta visual (via SVG) informando que o conteúdo do segundo jogo da franquia ("Termina") ainda não foi adicionado à wiki.
 - **Estilização repetida por página:** por ainda não ter um sistema de componentes, cada página repete parte do CSS de layout (como `.box-model3`) — um ponto de melhoria futura seria centralizar essas classes no `style.css` global.
 
-## ✅ Status
+## Status
 
 Páginas de Início, História e Mapas implementadas e funcionais. A página de Personagens também está disponível no projeto.
